@@ -13,4 +13,4 @@
 1. Download the this Unity file and Unzip.
 2. Run the Unity program.
 3. Use and customize the debug message based on what you want to show in your Console.
-    all debug messages are inside the event manager script
+    all debug messages are inside the `EventManager` script
