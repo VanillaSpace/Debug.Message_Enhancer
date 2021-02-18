@@ -14,3 +14,7 @@
 2. Run the Unity program.
 3. Use and customize the debug message based on what you want to show in your Console.
     All debug messages are inside the `EventManager` script
+
+# Updates
+
+- Turning this feature into a Unity Editor Tool
