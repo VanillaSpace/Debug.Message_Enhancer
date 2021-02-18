@@ -1,7 +1,7 @@
 <h1 align="center">Debug Message Enhancer</h1>
 
 <p align="center">
-  <img alt="Preview" width="860" alt="preview" src="">
+  <img alt="Preview" alt="preview" src="https://user-images.githubusercontent.com/26191487/108304717-9b44f780-7176-11eb-9fbf-cdebcbe71ca2.JPG">
 <p align="center">
 
 <p align="center"> Make your debug messages stand out and easier to read.</p>
